@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7349d81-1a11-40b1-b957-091077cb232d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task7/runner/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task7/util/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task8/runner/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task8/util/SequenceMerger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/scanner/InputScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/scanner/InputScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task6/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task6/runner/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task6/util/MatrixGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task6/util/MatrixGenerator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,24 +26,24 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="24" />
+          <entry key="java" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="24" />
+          <entry key="JAVA" value="26" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6883" />
+          <entry key="java" value="7839" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6883" />
+          <entry key="JAVA" value="7839" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -64,19 +61,6 @@
               <caret line="29" column="9" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="29" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task5/util/LongestIncreasingSubsequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#456#465#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -138,11 +122,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task7/runner/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+            <state relative-caret-position="289">
+              <caret line="23" column="51" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="23" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,15 +135,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Rectangle.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task8/util/SequenceMerger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="69" column="59" selection-start-line="69" selection-start-column="59" selection-end-line="69" selection-end-column="59" />
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task8/runner/Runner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#536#537#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -209,6 +199,8 @@
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task6/runner/Runner.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task7/util/ShellSort.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task7/runner/Runner.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task8/util/SequenceMerger.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task8/runner/Runner.java" />
       </list>
     </option>
   </component>
@@ -218,8 +210,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
@@ -258,44 +250,6 @@
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
               <item name="scanner" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task4" type="462c0819:PsiDirectoryNode" />
-              <item name="runner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task7" type="462c0819:PsiDirectoryNode" />
-              <item name="runner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task7" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -305,7 +259,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540072350236" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540076212849" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../1/wt-java-introduction-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -325,13 +279,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Runner">
-    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task2.runner.Runner" />
+  <component name="RunManager" selected="Application.Runner (2)">
+    <configuration name="Runner (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task8.runner.Runner" />
       <module name="Java-Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bsuir.dubitskaya.task2.runner.*" />
+          <option name="PATTERN" value="by.bsuir.dubitskaya.task8.runner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,19 +346,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Runner (1)" />
       <item itemvalue="Application.Runner (3)" />
       <item itemvalue="Application.Runner (4)" />
       <item itemvalue="Application.Runner (5)" />
       <item itemvalue="Application.Runner" />
+      <item itemvalue="Application.Runner (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Runner (2)" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Runner (5)" />
         <item itemvalue="Application.Runner (4)" />
         <item itemvalue="Application.Runner (3)" />
-        <item itemvalue="Application.Runner (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -419,18 +373,18 @@
       <option name="presentableId" value="Default" />
       <updated>1540037964413</updated>
       <workItem from="1540037968216" duration="18822000" />
-      <workItem from="1540063491779" duration="6954000" />
+      <workItem from="1540063491779" duration="10834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25776000" />
+    <option name="totallyTimeSpent" value="29656000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992908" visible="true" weight="0.036061026" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992908" visible="true" weight="0.16577181" />
       <window_info id="Structure" order="1" sideWeight="0.50070924" side_tool="true" weight="0.24966443" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -439,7 +393,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39432624" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38865247" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -640,8 +594,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task7/runner/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        <state relative-caret-position="289">
+          <caret line="23" column="51" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="23" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task8/util/SequenceMerger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task8/runner/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
