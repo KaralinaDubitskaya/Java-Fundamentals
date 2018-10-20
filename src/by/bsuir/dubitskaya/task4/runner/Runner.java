@@ -28,6 +28,5 @@ public class Runner {
         } else {
             System.out.print("The array hasn't prime numbers");
         }
-
     }
 }
