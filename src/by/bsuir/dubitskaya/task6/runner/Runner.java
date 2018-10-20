@@ -12,9 +12,9 @@ public class Runner {
         }
 
         System.out.print("Enter elements of the array: ");
-        int[] array = InputScanner.scanIntArray(n);
+        double[] array = InputScanner.scanDoubleArray(n);
 
-        int[][] matrix;
+        double[][] matrix;
 
         try {
             matrix = MatrixGenerator.getSquareMatrix(array);
@@ -24,8 +24,8 @@ public class Runner {
         }
 
         StringBuilder stringBuilder = new StringBuilder();
-        for (int[] row : matrix) {
-            for (int value : row) {
+        for (double[] row : matrix) {
+            for (double value : row) {
                 stringBuilder.append(value);
                 stringBuilder.append(' ');
             }

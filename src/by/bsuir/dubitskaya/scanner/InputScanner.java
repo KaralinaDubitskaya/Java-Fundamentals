@@ -19,6 +19,17 @@ public class InputScanner {
         return in.nextInt();
     }
 
+    public static double[] scanDoubleArray(int n) {
+        double[] array = new double[n];
+        for (int i = 0; i < n; i++) {
+            while (!in.hasNextInt()) {
+                in.next();
+            }
+            array[i] = in.nextInt();
+        }
+        return array;
+    }
+
     public static int[] scanIntArray(int n) {
         int[] array = new int[n];
         for (int i = 0; i < n; i++) {
