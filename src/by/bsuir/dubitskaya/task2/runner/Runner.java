@@ -15,7 +15,19 @@ public class Runner {
         double y = in.scanDouble();
         in.close();
 
-        Figure figure = new Figure();
+        final int UPPER_FIGURE_X1 = -4;
+        final int UPPER_FIGURE_X2 = 4;
+        final int UPPER_FIGURE_Y1 = 0;
+        final int UPPER_FIGURE_Y2 = 5;
+
+        final int LOWER_FIGURE_X1 = -6;
+        final int LOWER_FIGURE_X2 = 6;
+        final int LOWER_FIGURE_Y1 = -3;
+        final int LOWER_FIGURE_Y2 = 0;
+
+        Rectangle upperRectangle = new Rectangle(UPPER_FIGURE_X1, UPPER_FIGURE_X2, UPPER_FIGURE_Y1, UPPER_FIGURE_Y2);
+        Rectangle lowerRectangle = new Rectangle(LOWER_FIGURE_X1, LOWER_FIGURE_X2, LOWER_FIGURE_Y1, LOWER_FIGURE_Y2);
+        Figure figure = new Figure(upperRectangle, lowerRectangle);
         Point point = new Point(x, y);
 
         String result;

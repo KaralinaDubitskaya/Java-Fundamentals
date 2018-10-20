@@ -2,26 +2,70 @@ package by.bsuir.dubitskaya.task2.util;
 
 public class Figure {
 
-    private static final int UPPER_PART_X1 = -4;
-    private static final int UPPER_PART_X2 = 4;
-    private static final int UPPER_PART_Y1 = 0;
-    private static final int UPPER_PART_Y2 = 5;
+    private Rectangle upperRectangle;
+    private Rectangle bottomRectangle;
 
-    private static final int LOWER_PART_X1 = -6;
-    private static final int LOWER_PART_X2 = 6;
-    private static final int LOWER_PART_Y1 = -3;
-    private static final int LOWER_PART_Y2 = 0;
-    
-    public boolean isPointInFigure(Point point) {
-        double x = point.getX();
-        double y = point.getY();
-
-        boolean isInUpperPart = (x >= UPPER_PART_X1) && (x <= UPPER_PART_X2) &&
-                                (y >= UPPER_PART_Y1) && (y <= UPPER_PART_Y2);
-        boolean isInLowerPart = (x >= LOWER_PART_X1) && (x <= LOWER_PART_X2) &&
-                                (y >= LOWER_PART_Y1) && (y <= LOWER_PART_Y2);
-
-        return (isInLowerPart || isInUpperPart);
+    public void setUpperRectangle(Rectangle upperRectangle) {
+        this.upperRectangle = upperRectangle;
     }
 
+    public Rectangle getUpperRectangle() {
+        return this.upperRectangle;
+    }
+
+    public void setBottomRectangle(Rectangle bottomRectangle) {
+        this.bottomRectangle = bottomRectangle;
+    }
+
+    public Rectangle getBottomRectangle() {
+        return bottomRectangle;
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (this == obj) {
+            return true;
+        }
+        if (null == obj) {
+            return false;
+        }
+        if (getClass() != obj.getClass()) {
+            return false;
+        }
+
+        Figure figure = (Figure) obj;
+        return (this.bottomRectangle == figure.bottomRectangle) && (this.upperRectangle == figure.upperRectangle);
+    }
+
+    @Override
+    public int hashCode() {
+        final int prime = 31;
+        double result = 1;
+        result = prime * result + upperRectangle.hashCode();
+        result = prime * result + bottomRectangle.hashCode();
+        return (int) result;
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
+        sb.append(getClass().getName()).append("@ upper rectangle: (")
+                                       .append(upperRectangle.toString())
+                                       .append(", bottom rectangle: ")
+                                       .append(bottomRectangle.toString());
+        return sb.toString();
+    }
+
+    public Figure(Rectangle upperRectangle, Rectangle bottomRectangle) {
+        if ((upperRectangle == null) || (bottomRectangle == null)) {
+            throw new IllegalArgumentException("Arguments shouldn't be null");
+        }
+
+        this.upperRectangle = upperRectangle;
+        this.bottomRectangle = bottomRectangle;
+    }
+
+    public boolean isPointInFigure(Point point) {
+        return bottomRectangle.isPointInRectangle(point) || upperRectangle.isPointInRectangle(point);
+    }
 }
