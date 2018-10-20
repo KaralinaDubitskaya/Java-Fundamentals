@@ -8,12 +8,10 @@ import java.lang.reflect.Field;
 public class Runner {
 
     public static void main(String[] args) {
-        InputScanner in = new InputScanner();
         System.out.print("Enter x: ");
-        double x = in.scanDouble();
+        double x = InputScanner.scanDouble();
         System.out.print("Enter y: ");
-        double y = in.scanDouble();
-        in.close();
+        double y = InputScanner.scanDouble();
 
         final int UPPER_FIGURE_X1 = -4;
         final int UPPER_FIGURE_X2 = 4;
