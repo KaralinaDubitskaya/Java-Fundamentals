@@ -48,8 +48,8 @@ public class ProgrammerBook extends Book {
         return language;
     }
 
-    public ProgrammerBook(String title, String author, int price, String language, int level) {
-        super(title, author, price);
+    public ProgrammerBook(String title, String author, int price, String language, int level, String isbn) {
+        super(title, author, price, isbn);
         if ((language == null) || language.isEmpty()) {
             throw new IllegalArgumentException("Language shouldn't be empty");
         }

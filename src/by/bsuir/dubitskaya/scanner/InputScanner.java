@@ -1,5 +1,7 @@
 package by.bsuir.dubitskaya.scanner;
 
+import by.bsuir.dubitskaya.task12.util.Book;
+
 import java.util.Scanner;
 
 public class InputScanner {
