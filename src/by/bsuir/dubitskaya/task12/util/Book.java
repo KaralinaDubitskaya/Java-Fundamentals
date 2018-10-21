@@ -2,7 +2,7 @@ package by.bsuir.dubitskaya.task12.util;
 
 import java.util.Objects;
 
-public class Book {
+public class Book implements Cloneable{
     private String title;
     private String author;
     private int price;
@@ -40,6 +40,16 @@ public class Book {
     public String toString() {
         return getClass().getName() + "@title: " + title + ", author: " + author + ", price: " + price + ", edition: "
                 + edition;
+    }
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        Book obj = null;
+        obj = (Book) super.clone();
+        obj.title = title;
+        obj.author = author;
+        obj.price = price;
+        return obj;
     }
 
     public static void setEdition(int edition) {
