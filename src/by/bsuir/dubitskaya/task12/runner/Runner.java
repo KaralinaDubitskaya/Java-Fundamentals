@@ -25,6 +25,14 @@ public class Runner {
             System.out.println(book.toString());
         }
 
+        System.out.println("Book 1 and 2 are " + (book1.equals(book2) ? "" : "not ") + "equal");
+
+        System.out.println("Book 1 hash code: " + book1.hashCode());
+        System.out.println("Book 2 hash code: " + book2.hashCode());
+        System.out.println("Book 3 hash code: " + book3.hashCode());
+        System.out.println("Book 4 hash code: " + book4.hashCode());
+        System.out.println("Book 5 hash code: " + book5.hashCode());
+
         System.out.println("Book 1 to book 2 compare result: " + book1.compareTo(book2));
         System.out.println("Book 2 to book 1 compare result: " + book2.compareTo(book1));
         System.out.println("Book 4 to book 5 compare result: " + book4.compareTo(book5));

@@ -1,5 +1,7 @@
 package by.bsuir.dubitskaya.task2.util;
 
+import java.util.Objects;
+
 public class Rectangle {
     private Point leftUpperCorner;
     private Point rightBottomCorner;
@@ -39,11 +41,7 @@ public class Rectangle {
 
     @Override
     public int hashCode() {
-        final int prime = 31;
-        double result = 1;
-        result = prime * result + leftUpperCorner.hashCode();
-        result = prime * result + rightBottomCorner.hashCode();
-        return (int) result;
+        return Objects.hash(leftUpperCorner, rightBottomCorner);
     }
 
     @Override

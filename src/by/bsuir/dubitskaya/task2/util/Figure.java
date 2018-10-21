@@ -1,5 +1,7 @@
 package by.bsuir.dubitskaya.task2.util;
 
+import java.util.Objects;
+
 public class Figure {
 
     private Rectangle upperRectangle;
@@ -39,11 +41,7 @@ public class Figure {
 
     @Override
     public int hashCode() {
-        final int prime = 31;
-        double result = 1;
-        result = prime * result + upperRectangle.hashCode();
-        result = prime * result + bottomRectangle.hashCode();
-        return (int) result;
+        return Objects.hash(upperRectangle, bottomRectangle);
     }
 
     @Override

@@ -27,12 +27,7 @@ public class ProgrammerBook extends Book {
 
     @Override
     public int hashCode() {
-        final int prime = 31;
-        double result = 1;
-        result = prime * result + level;
-        result = prime * result + language.hashCode();
-        result = prime * result + super.hashCode();
-        return (int) result;
+        return Objects.hash(level, language, super.hashCode());
     }
 
     @Override

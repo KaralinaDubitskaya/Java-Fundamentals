@@ -1,5 +1,7 @@
 package by.bsuir.dubitskaya.task9.util;
 
+import java.util.Objects;
+
 public class Ball {
     private double weight;
     private Color color;
@@ -42,11 +44,7 @@ public class Ball {
 
     @Override
     public int hashCode() {
-        final int prime = 31;
-        double result = 1;
-        result = prime * result + weight;
-        result = prime * result + color.hashCode();
-        return (int) result;
+        return Objects.hash(weight, color);
     }
 
     @Override
