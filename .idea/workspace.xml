@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7349d81-1a11-40b1-b957-091077cb232d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task1/util/FunctionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/FigureTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task3/table/TableBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task3/util/TanFunctionTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Fundamentals.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task1/util/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task1/util/Function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Figure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Rectangle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,14 +26,14 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="73" />
+          <entry key="java" value="77" />
           <entry key="mf" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="73" />
+          <entry key="JAVA" value="77" />
           <entry key="Manifest" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -49,13 +41,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="11738" />
+          <entry key="java" value="12134" />
           <entry key="mf" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11738" />
+          <entry key="JAVA" value="12134" />
           <entry key="Manifest" value="60" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
@@ -69,62 +61,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manifest.mf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Figure.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/FigureTest.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/util/TanFunction.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Point.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
               <folding>
-                <element signature="e#760#761#0" expanded="true" />
-                <element signature="e#801#802#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/RectangleTest.java">
+        <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task3/util/TanFunctionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="255">
+              <caret line="17" column="82" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="82" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Rectangle.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/table/TableBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task3/table/TableBuilderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
               <folding>
-                <element signature="e#1062#1063#0" expanded="true" />
-                <element signature="e#1133#1134#0" expanded="true" />
+                <element signature="e#504#520#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -199,6 +171,8 @@
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Point.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Figure.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/FigureTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task3/util/TanFunctionTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task3/table/TableBuilderTest.java" />
       </list>
     </option>
   </component>
@@ -246,14 +220,22 @@
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task2" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task2" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+              <item name="table" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -266,13 +248,6 @@
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,7 +261,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540216594337" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540236304748" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -300,6 +275,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.bsuir.dubitskaya.task3.table" />
+      <recent name="by.bsuir.dubitskaya.task3.util" />
       <recent name="by.bsuir.dubitskaya.task2.util" />
       <recent name="by.bsuir.dubitskaya.task1.util" />
       <recent name="by.bsuir.dubitskaya.task1" />
@@ -320,33 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FigureTest.isPointInFigure">
-    <configuration name="Runner (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task13.runner.Runner" />
-      <module name="Java-Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.dubitskaya.task13.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Runner (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task15.runner.Runner" />
-      <module name="Java-Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.dubitskaya.task15.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TableBuilderTest.getTable">
     <configuration name="FigureTest.isPointInFigure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Fundamentals" />
       <extension name="coverage">
@@ -395,20 +346,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TableBuilderTest.getTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.dubitskaya.task3.table.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task3.table" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task3.table.TableBuilderTest" />
+      <option name="METHOD_NAME" value="getTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TanFunctionTest.getValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.dubitskaya.task3.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task3.util" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task3.util.TanFunctionTest" />
+      <option name="METHOD_NAME" value="getValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Runner (4)" />
-      <item itemvalue="Application.Runner (5)" />
       <item itemvalue="JUnit.FunctionTest.solve" />
       <item itemvalue="JUnit.RectangleTest.isPointInRectangle" />
       <item itemvalue="JUnit.FigureTest.isPointInFigure" />
+      <item itemvalue="JUnit.TanFunctionTest.getValues" />
+      <item itemvalue="JUnit.TableBuilderTest.getTable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TableBuilderTest.getTable" />
+        <item itemvalue="JUnit.TanFunctionTest.getValues" />
         <item itemvalue="JUnit.FigureTest.isPointInFigure" />
         <item itemvalue="JUnit.RectangleTest.isPointInRectangle" />
         <item itemvalue="JUnit.FunctionTest.solve" />
-        <item itemvalue="Application.Runner (5)" />
-        <item itemvalue="Application.Runner (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -423,32 +406,50 @@
       <option name="presentableId" value="Default" />
       <updated>1540037964413</updated>
       <workItem from="1540037968216" duration="18822000" />
-      <workItem from="1540063491779" duration="40019000" />
+      <workItem from="1540063491779" duration="42782000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FunctionTest_solve - 2018.10.22 at 16h 23m 19s.xml">
-      <configuration name="FunctionTest.solve" configurationId="JUnit" />
+    <history-entry file="TanFunctionTest_getValues - 2018.10.22 at 17h 12m 03s.xml">
+      <configuration name="TanFunctionTest.getValues" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunctionTest_solve - 2018.10.22 at 16h 23m 34s.xml">
-      <configuration name="FunctionTest.solve" configurationId="JUnit" />
+    <history-entry file="TanFunctionTest_getValues - 2018.10.22 at 17h 13m 15s.xml">
+      <configuration name="TanFunctionTest.getValues" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunctionTest_solve - 2018.10.22 at 16h 29m 02s.xml">
-      <configuration name="FunctionTest.solve" configurationId="JUnit" />
+    <history-entry file="TanFunctionTest_getValues - 2018.10.22 at 17h 23m 17s.xml">
+      <configuration name="TanFunctionTest.getValues" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RectangleTest_isPointInRectangle - 2018.10.22 at 16h 44m 04s.xml">
-      <configuration name="RectangleTest.isPointInRectangle" configurationId="JUnit" />
+    <history-entry file="TanFunctionTest_getValues - 2018.10.22 at 17h 23m 48s.xml">
+      <configuration name="TanFunctionTest.getValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TanFunctionTest_getValues - 2018.10.22 at 17h 25m 18s.xml">
+      <configuration name="TanFunctionTest.getValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TanFunctionTest_getValues - 2018.10.22 at 17h 27m 20s.xml">
+      <configuration name="TanFunctionTest.getValues" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TableBuilderTest_getTable - 2018.10.22 at 22h 13m 45s.xml">
+      <configuration name="TableBuilderTest.getTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TableBuilderTest_getTable - 2018.10.22 at 22h 16m 57s.xml">
+      <configuration name="TableBuilderTest.getTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TableBuilderTest_getTable - 2018.10.22 at 22h 21m 26s.xml">
+      <configuration name="TableBuilderTest.getTable" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TableBuilderTest_getTable - 2018.10.22 at 22h 23m 49s.xml">
+      <configuration name="TableBuilderTest.getTable" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58841000" />
+    <option name="totallyTimeSpent" value="61604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992908" visible="true" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992908" visible="true" weight="0.3295302" />
       <window_info id="Structure" order="1" sideWeight="0.50070924" side_tool="true" weight="0.24966443" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -457,7 +458,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3902439" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39007092" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -626,23 +627,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/util/TanFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/table/TableBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -934,8 +918,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/FigureTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/util/TanFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task3/util/TanFunctionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="82" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/table/TableBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task3/table/TableBuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+          <folding>
+            <element signature="e#504#520#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
