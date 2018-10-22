@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7349d81-1a11-40b1-b957-091077cb232d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task5/util/LongestIncreasingSubsequenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task6/util/MatrixGeneratorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task5/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task5/runner/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task5/util/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task5/util/LongestIncreasingSubsequence.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,14 +25,14 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="82" />
+          <entry key="java" value="86" />
           <entry key="mf" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="82" />
+          <entry key="JAVA" value="86" />
           <entry key="Manifest" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -42,13 +40,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="12431" />
+          <entry key="java" value="12485" />
           <entry key="mf" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12431" />
+          <entry key="JAVA" value="12485" />
           <entry key="Manifest" value="60" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
@@ -62,23 +60,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task5/util/LongestIncreasingSubsequence.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task6/util/MatrixGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#456#465#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task5/util/LongestIncreasingSubsequenceTest.java">
+        <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task6/util/MatrixGeneratorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+            <state relative-caret-position="204">
+              <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -156,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task5/runner/Runner.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task5/util/LongestIncreasingSubsequence.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task5/util/LongestIncreasingSubsequenceTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task6/util/MatrixGeneratorTest.java" />
       </list>
     </option>
   </component>
@@ -203,14 +198,14 @@
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task5" type="462c0819:PsiDirectoryNode" />
+              <item name="task6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task5" type="462c0819:PsiDirectoryNode" />
+              <item name="task6" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -224,6 +219,13 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -236,7 +238,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540237768538" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540238420933" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -250,11 +252,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.bsuir.dubitskaya.task6.util" />
       <recent name="by.bsuir.dubitskaya.task5.util" />
       <recent name="by.bsuir.dubitskaya.task4.util" />
       <recent name="by.bsuir.dubitskaya.task3.table" />
       <recent name="by.bsuir.dubitskaya.task3.util" />
-      <recent name="by.bsuir.dubitskaya.task2.util" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -272,23 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LongestIncreasingSubsequenceTest.getLength">
-    <configuration name="FigureTest.isPointInFigure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java-Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.dubitskaya.task2.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task2.util" />
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task2.util.FigureTest" />
-      <option name="METHOD_NAME" value="isPointInFigure" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MatrixGeneratorTest.getSquareMatrix">
     <configuration name="LongestIncreasingSubsequenceTest.getLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Fundamentals" />
       <extension name="coverage">
@@ -300,6 +286,22 @@
       <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task5.util" />
       <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task5.util.LongestIncreasingSubsequenceTest" />
       <option name="METHOD_NAME" value="getLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixGeneratorTest.getSquareMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.dubitskaya.task6.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task6.util" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task6.util.MatrixGeneratorTest" />
+      <option name="METHOD_NAME" value="getSquareMatrix" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -354,19 +356,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.FigureTest.isPointInFigure" />
       <item itemvalue="JUnit.TanFunctionTest.getValues" />
       <item itemvalue="JUnit.TableBuilderTest.getTable" />
       <item itemvalue="JUnit.PrimalityCheckerTest.isPrime" />
       <item itemvalue="JUnit.LongestIncreasingSubsequenceTest.getLength" />
+      <item itemvalue="JUnit.MatrixGeneratorTest.getSquareMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MatrixGeneratorTest.getSquareMatrix" />
         <item itemvalue="JUnit.LongestIncreasingSubsequenceTest.getLength" />
         <item itemvalue="JUnit.PrimalityCheckerTest.isPrime" />
         <item itemvalue="JUnit.TableBuilderTest.getTable" />
         <item itemvalue="JUnit.TanFunctionTest.getValues" />
-        <item itemvalue="JUnit.FigureTest.isPointInFigure" />
       </list>
     </recent_temporary>
   </component>
@@ -381,20 +383,11 @@
       <option name="presentableId" value="Default" />
       <updated>1540037964413</updated>
       <workItem from="1540037968216" duration="18822000" />
-      <workItem from="1540063491779" duration="44011000" />
+      <workItem from="1540063491779" duration="44896000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TableBuilderTest_getTable - 2018.10.22 at 22h 13m 45s.xml">
-      <configuration name="TableBuilderTest.getTable" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TableBuilderTest_getTable - 2018.10.22 at 22h 16m 57s.xml">
-      <configuration name="TableBuilderTest.getTable" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TableBuilderTest_getTable - 2018.10.22 at 22h 21m 26s.xml">
-      <configuration name="TableBuilderTest.getTable" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TableBuilderTest_getTable - 2018.10.22 at 22h 23m 49s.xml">
       <configuration name="TableBuilderTest.getTable" configurationId="JUnit" />
     </history-entry>
@@ -416,9 +409,18 @@
     <history-entry file="LongestIncreasingSubsequenceTest_getLength - 2018.10.22 at 22h 41m 19s.xml">
       <configuration name="LongestIncreasingSubsequenceTest.getLength" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LongestIncreasingSubsequenceTest_getLength - 2018.10.22 at 22h 48m 53s.xml">
+      <configuration name="LongestIncreasingSubsequenceTest.getLength" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LongestIncreasingSubsequenceTest_getLength - 2018.10.22 at 22h 49m 30s.xml">
+      <configuration name="LongestIncreasingSubsequenceTest.getLength" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatrixGeneratorTest_getSquareMatrix - 2018.10.22 at 23h 00m 13s.xml">
+      <configuration name="MatrixGeneratorTest.getSquareMatrix" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62833000" />
+    <option name="totallyTimeSpent" value="63718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -592,13 +594,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task6/util/MatrixGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -941,8 +936,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task5/util/LongestIncreasingSubsequenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+        <state relative-caret-position="136">
+          <caret line="10" column="105" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task6/util/MatrixGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task6/util/MatrixGeneratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
         </state>
       </provider>
     </entry>
