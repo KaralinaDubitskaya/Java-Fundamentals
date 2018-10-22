@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7349d81-1a11-40b1-b957-091077cb232d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task9/util/BasketTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task12/util/BookTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,14 +25,14 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="96" />
+          <entry key="java" value="100" />
           <entry key="mf" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="96" />
+          <entry key="JAVA" value="100" />
           <entry key="Manifest" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -40,13 +40,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="13119" />
+          <entry key="java" value="13248" />
           <entry key="mf" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13119" />
+          <entry key="JAVA" value="13248" />
           <entry key="Manifest" value="60" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
@@ -60,49 +60,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task9/util/Color.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task12/util/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task9/util/Ball.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-213">
-              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+            <state relative-caret-position="238">
+              <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
               <folding>
-                <element signature="e#948#949#0" expanded="true" />
-                <element signature="e#998#999#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task9/util/Basket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+                <element signature="e#852#853#0" expanded="true" />
+                <element signature="e#2746#2747#0" expanded="true" />
+                <element signature="e#2774#2775#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task9/util/BasketTest.java">
+        <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task12/util/BookTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="127">
+              <caret line="14" column="96" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task12/runner/Runner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
               <folding>
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/output/TableBuilder.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/table/TableBuilder.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/util/TanFunction.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task1/runner/Runner.java" />
@@ -152,7 +138,6 @@
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task9/util/Basket.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/scanner/InputScanner.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task12/runner/Runner.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task12/util/Book.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task9/util/Ball.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task13/util/ProgrammerBook.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task13/runner/Runner.java" />
@@ -184,6 +169,8 @@
         <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task7/util/ShellSortTest.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task8/util/SequenceMergerTest.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task9/util/BasketTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task12/util/Book.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task12/util/BookTest.java" />
       </list>
     </option>
   </component>
@@ -231,14 +218,22 @@
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task9" type="462c0819:PsiDirectoryNode" />
+              <item name="task12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task9" type="462c0819:PsiDirectoryNode" />
+              <item name="task12" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
+              <item name="task12" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -252,6 +247,13 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -264,7 +266,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540241634494" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540243052416" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -278,11 +280,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.bsuir.dubitskaya.task12.util" />
       <recent name="by.bsuir.dubitskaya.task9.util" />
       <recent name="by.bsuir.dubitskaya.task8.util" />
       <recent name="by.bsuir.dubitskaya.task7.util" />
       <recent name="by.bsuir.dubitskaya.task6.util" />
-      <recent name="by.bsuir.dubitskaya.task5.util" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -300,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BasketTest">
+  <component name="RunManager" selected="JUnit.BookTest.compareTo">
     <configuration name="BasketTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Fundamentals" />
       <extension name="coverage">
@@ -331,17 +333,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SequenceMergerTest.combineSequences" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookTest.compareTo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bsuir.dubitskaya.task8.util.*" />
+          <option name="PATTERN" value="by.bsuir.dubitskaya.task12.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task8.util" />
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task8.util.SequenceMergerTest" />
-      <option name="METHOD_NAME" value="combineSequences" />
+      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task12.util" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task12.util.BookTest" />
+      <option name="METHOD_NAME" value="compareTo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -380,19 +382,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SequenceMergerTest.combineSequences" />
       <item itemvalue="JUnit.SequenceMergerTest.combineSequencesTest2" />
       <item itemvalue="JUnit.SequenceMergerTest.combineSequencesTest1" />
       <item itemvalue="JUnit.BasketTest.getWeight" />
       <item itemvalue="JUnit.BasketTest" />
+      <item itemvalue="JUnit.BookTest.compareTo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BookTest.compareTo" />
         <item itemvalue="JUnit.BasketTest" />
         <item itemvalue="JUnit.BasketTest.getWeight" />
         <item itemvalue="JUnit.SequenceMergerTest.combineSequencesTest1" />
         <item itemvalue="JUnit.SequenceMergerTest.combineSequencesTest2" />
-        <item itemvalue="JUnit.SequenceMergerTest.combineSequences" />
       </list>
     </recent_temporary>
   </component>
@@ -407,44 +409,44 @@
       <option name="presentableId" value="Default" />
       <updated>1540037964413</updated>
       <workItem from="1540037968216" duration="18822000" />
-      <workItem from="1540063491779" duration="48103000" />
+      <workItem from="1540063491779" duration="49524000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LongestIncreasingSubsequenceTest_getLength - 2018.10.22 at 22h 49m 30s.xml">
-      <configuration name="LongestIncreasingSubsequenceTest.getLength" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MatrixGeneratorTest_getSquareMatrix - 2018.10.22 at 23h 00m 13s.xml">
-      <configuration name="MatrixGeneratorTest.getSquareMatrix" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShellSortTest_sort - 2018.10.22 at 23h 03m 45s.xml">
-      <configuration name="ShellSortTest.sort" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShellSortTest_sort - 2018.10.22 at 23h 09m 42s.xml">
-      <configuration name="ShellSortTest.sort" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SequenceMergerTest_combineSequences - 2018.10.22 at 23h 29m 11s.xml">
-      <configuration name="SequenceMergerTest.combineSequences" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SequenceMergerTest_combineSequences - 2018.10.22 at 23h 30m 39s.xml">
-      <configuration name="SequenceMergerTest.combineSequences" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SequenceMergerTest_combineSequencesTest2 - 2018.10.22 at 23h 35m 23s.xml">
-      <configuration name="SequenceMergerTest.combineSequencesTest2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SequenceMergerTest_combineSequencesTest1 - 2018.10.22 at 23h 39m 49s.xml">
-      <configuration name="SequenceMergerTest.combineSequencesTest1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BasketTest_getWeight - 2018.10.22 at 23h 47m 51s.xml">
       <configuration name="BasketTest.getWeight" configurationId="JUnit" />
     </history-entry>
     <history-entry file="BasketTest_getWeight - 2018.10.22 at 23h 48m 20s.xml">
       <configuration name="BasketTest.getWeight" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BasketTest - 2018.10.22 at 23h 53m 56s.xml">
+      <configuration name="BasketTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookTest_compareTo - 2018.10.23 at 00h 09m 01s.xml">
+      <configuration name="BookTest.compareTo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookTest_compareTo - 2018.10.23 at 00h 10m 15s.xml">
+      <configuration name="BookTest.compareTo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookTest_compareTo - 2018.10.23 at 00h 11m 43s.xml">
+      <configuration name="BookTest.compareTo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookTest_compareTo - 2018.10.23 at 00h 12m 03s.xml">
+      <configuration name="BookTest.compareTo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookTest_compareTo - 2018.10.23 at 00h 14m 13s.xml">
+      <configuration name="BookTest.compareTo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookTest_compareTo - 2018.10.23 at 00h 15m 13s.xml">
+      <configuration name="BookTest.compareTo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookTest_compareTo - 2018.10.23 at 00h 16m 51s.xml">
+      <configuration name="BookTest.compareTo" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66925000" />
+    <option name="totallyTimeSpent" value="68346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -517,16 +519,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/runner/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="45" selection-start-line="10" selection-start-column="8" selection-end-line="11" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task1/runner/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -603,19 +595,6 @@
           <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task12/util/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#780#781#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
-            <element signature="e#2746#2747#0" expanded="true" />
-            <element signature="e#2774#2775#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -724,16 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task12/runner/Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="37" selection-end-column="89" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -949,10 +918,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task9/util/Color.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task9/util/Basket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task9/util/BasketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -967,26 +952,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task9/util/Basket.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task9/util/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task12/runner/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task9/util/BasketTest.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task12/util/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="238">
+          <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
           <folding>
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+            <element signature="e#2746#2747#0" expanded="true" />
+            <element signature="e#2774#2775#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task12/util/BookTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="14" column="96" selection-start-line="14" selection-start-column="96" selection-end-line="14" selection-end-column="96" />
         </state>
       </provider>
     </entry>
