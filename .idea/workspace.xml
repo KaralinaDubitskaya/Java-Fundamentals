@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7349d81-1a11-40b1-b957-091077cb232d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task7/util/ShellSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task8/util/SequenceMergerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,14 +25,14 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="89" />
+          <entry key="java" value="91" />
           <entry key="mf" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="89" />
+          <entry key="JAVA" value="91" />
           <entry key="Manifest" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -40,13 +40,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="12586" />
+          <entry key="java" value="12977" />
           <entry key="mf" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12586" />
+          <entry key="JAVA" value="12977" />
           <entry key="Manifest" value="60" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
@@ -60,19 +60,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task7/util/ShellSort.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task8/util/SequenceMerger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="697">
+              <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task7/util/ShellSortTest.java">
+        <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task8/util/SequenceMergerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="263">
+              <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -152,6 +152,7 @@
         <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task5/util/LongestIncreasingSubsequenceTest.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task6/util/MatrixGeneratorTest.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task7/util/ShellSortTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task8/util/SequenceMergerTest.java" />
       </list>
     </option>
   </component>
@@ -199,14 +200,14 @@
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task7" type="462c0819:PsiDirectoryNode" />
+              <item name="task8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task7" type="462c0819:PsiDirectoryNode" />
+              <item name="task8" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -219,13 +220,6 @@
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,7 +233,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540238993585" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540240799944" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -253,11 +247,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.bsuir.dubitskaya.task8.util" />
       <recent name="by.bsuir.dubitskaya.task7.util" />
       <recent name="by.bsuir.dubitskaya.task6.util" />
       <recent name="by.bsuir.dubitskaya.task5.util" />
       <recent name="by.bsuir.dubitskaya.task4.util" />
-      <recent name="by.bsuir.dubitskaya.task3.table" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -275,23 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ShellSortTest.sort">
-    <configuration name="LongestIncreasingSubsequenceTest.getLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java-Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.dubitskaya.task5.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task5.util" />
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task5.util.LongestIncreasingSubsequenceTest" />
-      <option name="METHOD_NAME" value="getLength" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SequenceMergerTest.combineSequencesTest1">
     <configuration name="MatrixGeneratorTest.getSquareMatrix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Fundamentals" />
       <extension name="coverage">
@@ -308,17 +286,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimalityCheckerTest.isPrime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SequenceMergerTest.combineSequences" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bsuir.dubitskaya.task4.util.*" />
+          <option name="PATTERN" value="by.bsuir.dubitskaya.task8.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task4.util" />
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task4.util.PrimalityCheckerTest" />
-      <option name="METHOD_NAME" value="isPrime" />
+      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task8.util" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task8.util.SequenceMergerTest" />
+      <option name="METHOD_NAME" value="combineSequences" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceMergerTest.combineSequencesTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.dubitskaya.task8.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task8.util" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task8.util.SequenceMergerTest" />
+      <option name="METHOD_NAME" value="combineSequencesTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceMergerTest.combineSequencesTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.dubitskaya.task8.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task8.util" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task8.util.SequenceMergerTest" />
+      <option name="METHOD_NAME" value="combineSequencesTest2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -340,36 +350,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TableBuilderTest.getTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java-Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.dubitskaya.task3.table.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task3.table" />
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task3.table.TableBuilderTest" />
-      <option name="METHOD_NAME" value="getTable" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.TableBuilderTest.getTable" />
-      <item itemvalue="JUnit.PrimalityCheckerTest.isPrime" />
-      <item itemvalue="JUnit.LongestIncreasingSubsequenceTest.getLength" />
       <item itemvalue="JUnit.MatrixGeneratorTest.getSquareMatrix" />
       <item itemvalue="JUnit.ShellSortTest.sort" />
+      <item itemvalue="JUnit.SequenceMergerTest.combineSequences" />
+      <item itemvalue="JUnit.SequenceMergerTest.combineSequencesTest2" />
+      <item itemvalue="JUnit.SequenceMergerTest.combineSequencesTest1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SequenceMergerTest.combineSequencesTest1" />
+        <item itemvalue="JUnit.SequenceMergerTest.combineSequencesTest2" />
+        <item itemvalue="JUnit.SequenceMergerTest.combineSequences" />
         <item itemvalue="JUnit.ShellSortTest.sort" />
         <item itemvalue="JUnit.MatrixGeneratorTest.getSquareMatrix" />
-        <item itemvalue="JUnit.LongestIncreasingSubsequenceTest.getLength" />
-        <item itemvalue="JUnit.PrimalityCheckerTest.isPrime" />
-        <item itemvalue="JUnit.TableBuilderTest.getTable" />
       </list>
     </recent_temporary>
   </component>
@@ -384,23 +378,11 @@
       <option name="presentableId" value="Default" />
       <updated>1540037964413</updated>
       <workItem from="1540037968216" duration="18822000" />
-      <workItem from="1540063491779" duration="45463000" />
+      <workItem from="1540063491779" duration="47273000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimalityCheckerTest_isPrime - 2018.10.22 at 22h 35m 40s.xml">
-      <configuration name="PrimalityCheckerTest.isPrime" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestIncreasingSubsequenceTest_getLength - 2018.10.22 at 22h 39m 50s.xml">
-      <configuration name="LongestIncreasingSubsequenceTest.getLength" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestIncreasingSubsequenceTest_getLength - 2018.10.22 at 22h 40m 02s.xml">
-      <configuration name="LongestIncreasingSubsequenceTest.getLength" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LongestIncreasingSubsequenceTest_getLength - 2018.10.22 at 22h 40m 38s.xml">
-      <configuration name="LongestIncreasingSubsequenceTest.getLength" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="LongestIncreasingSubsequenceTest_getLength - 2018.10.22 at 22h 41m 19s.xml">
       <configuration name="LongestIncreasingSubsequenceTest.getLength" configurationId="JUnit" />
     </history-entry>
@@ -419,9 +401,21 @@
     <history-entry file="ShellSortTest_sort - 2018.10.22 at 23h 09m 42s.xml">
       <configuration name="ShellSortTest.sort" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SequenceMergerTest_combineSequences - 2018.10.22 at 23h 29m 11s.xml">
+      <configuration name="SequenceMergerTest.combineSequences" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SequenceMergerTest_combineSequences - 2018.10.22 at 23h 30m 39s.xml">
+      <configuration name="SequenceMergerTest.combineSequences" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SequenceMergerTest_combineSequencesTest2 - 2018.10.22 at 23h 35m 23s.xml">
+      <configuration name="SequenceMergerTest.combineSequencesTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SequenceMergerTest_combineSequencesTest1 - 2018.10.22 at 23h 39m 49s.xml">
+      <configuration name="SequenceMergerTest.combineSequencesTest1" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64285000" />
+    <option name="totallyTimeSpent" value="66095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -494,7 +488,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task1/util/ExpressionSolver.java" />
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/runner/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -592,13 +585,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task8/util/SequenceMerger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -946,6 +932,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task7/util/ShellSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task7/util/ShellSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -953,10 +946,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task7/util/ShellSortTest.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task8/util/SequenceMerger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="697">
+          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task8/util/SequenceMergerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
         </state>
       </provider>
     </entry>
