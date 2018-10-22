@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class LongestIncreasingSubsequence {
 
-    public static int getLenght(int[] array) {
+    public static int getLength(int[] array) {
         if (array == null) {
             throw new IllegalArgumentException("Array should'n be null");
         }

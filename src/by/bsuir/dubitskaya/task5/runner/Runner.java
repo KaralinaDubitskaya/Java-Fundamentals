@@ -15,7 +15,7 @@ public class Runner {
         int[] array = InputScanner.scanIntArray(n);
 
         try {
-            int result = LongestIncreasingSubsequence.getLenght(array);
+            int result = LongestIncreasingSubsequence.getLength(array);
             System.out.print("Max length of the increasing subsequence: " + result);
         } catch (IllegalArgumentException e) {
             System.out.println("Error: " + e.getMessage());
