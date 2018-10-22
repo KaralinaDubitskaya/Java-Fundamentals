@@ -7,6 +7,15 @@ public class Figure {
     private Rectangle upperRectangle;
     private Rectangle bottomRectangle;
 
+    public Figure(Rectangle upperRectangle, Rectangle bottomRectangle) {
+        if ((upperRectangle == null) || (bottomRectangle == null)) {
+            throw new IllegalArgumentException("Arguments shouldn't be null");
+        }
+
+        this.upperRectangle = upperRectangle;
+        this.bottomRectangle = bottomRectangle;
+    }
+
     public void setUpperRectangle(Rectangle upperRectangle) {
         this.upperRectangle = upperRectangle;
     }
@@ -52,15 +61,6 @@ public class Figure {
                                        .append(", bottom rectangle: ")
                                        .append(bottomRectangle.toString());
         return sb.toString();
-    }
-
-    public Figure(Rectangle upperRectangle, Rectangle bottomRectangle) {
-        if ((upperRectangle == null) || (bottomRectangle == null)) {
-            throw new IllegalArgumentException("Arguments shouldn't be null");
-        }
-
-        this.upperRectangle = upperRectangle;
-        this.bottomRectangle = bottomRectangle;
     }
 
     public boolean isPointInFigure(Point point) {

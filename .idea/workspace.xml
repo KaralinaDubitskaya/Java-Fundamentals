@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7349d81-1a11-40b1-b957-091077cb232d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/runner/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookAuthorComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookAuthorTitleComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookAuthorTitlePriceComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookPriceComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookTitleAuthorComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookTitleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task1/util/FunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/FigureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/RectangleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Fundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Fundamentals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task1/util/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task1/util/Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Rectangle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,29 +34,29 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="62" />
-          <entry key="mf" value="1" />
+          <entry key="java" value="73" />
+          <entry key="mf" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="62" />
-          <entry key="Manifest" value="1" />
+          <entry key="JAVA" value="73" />
+          <entry key="Manifest" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="11307" />
-          <entry key="mf" value="45" />
+          <entry key="java" value="11738" />
+          <entry key="mf" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11307" />
-          <entry key="Manifest" value="45" />
+          <entry key="JAVA" value="11738" />
+          <entry key="Manifest" value="60" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -67,150 +69,62 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task13/util/ProgrammerBook.java">
+        <entry file="file://$PROJECT_DIR$/manifest.mf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="24" column="44" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="24" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#701#702#0" expanded="true" />
-                <element signature="e#760#761#0" expanded="true" />
-                <element signature="e#987#988#0" expanded="true" />
-                <element signature="e#1076#1077#0" expanded="true" />
-                <element signature="e#1105#1106#0" expanded="true" />
-                <element signature="e#1133#1134#0" expanded="true" />
-                <element signature="e#1168#1169#0" expanded="true" />
-                <element signature="e#1199#1200#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task13/runner/Runner.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Figure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookAuthorComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#739#740#0" expanded="true" />
-                <element signature="e#772#773#0" expanded="true" />
-                <element signature="e#839#840#0" expanded="true" />
-                <element signature="e#878#879#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookTitleComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#634#635#0" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookPriceComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookTitleAuthorComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#744#745#0" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#844#845#0" expanded="true" />
-                <element signature="e#887#888#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookAuthorTitleComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#672#673#0" expanded="true" />
-                <element signature="e#726#727#0" expanded="true" />
-                <element signature="e#815#816#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookAuthorTitlePriceComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="88" lean-forward="true" selection-start-line="40" selection-start-column="88" selection-end-line="40" selection-end-column="88" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
-                <element signature="e#819#820#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/runner/Runner.java">
+        <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/FigureTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="306">
+              <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#760#761#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task12/runner/Runner.java">
+        <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/RectangleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="37" selection-end-column="89" />
+            <state relative-caret-position="153">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1062#1063#0" expanded="true" />
+                <element signature="e#1133#1134#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -222,6 +136,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -240,7 +156,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task1/util/ExpressionSolver.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task1/util/Function.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/output/TableBuilder.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/table/TableBuilder.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/util/TanFunction.java" />
@@ -261,13 +176,9 @@
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task9/util/Color.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task9/runner/Runner.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task9/util/Basket.java" />
-        <option value="$PROJECT_DIR$/manifest.mf" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/scanner/InputScanner.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task12/runner/Runner.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task12/util/Book.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Figure.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Point.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task9/util/Ball.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task13/util/ProgrammerBook.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task13/runner/Runner.java" />
@@ -279,6 +190,15 @@
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookAuthorNamePriceComparator.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookAuthorTitlePriceComparator.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/runner/Runner.java" />
+        <option value="$PROJECT_DIR$/manifest.mf" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task1/FunctionTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task1/util/Function.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task1/util/FunctionTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/RectangleTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Point.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Figure.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/FigureTest.java" />
       </list>
     </option>
   </component>
@@ -289,7 +209,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
+    <option name="x" value="-8" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
@@ -326,37 +246,32 @@
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task12" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task12" type="462c0819:PsiDirectoryNode" />
-              <item name="runner" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task15" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task15" type="462c0819:PsiDirectoryNode" />
-              <item name="runner" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="dubitskaya" type="462c0819:PsiDirectoryNode" />
-              <item name="task15" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -366,15 +281,32 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540137578200" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540216594337" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../1/wt-java-introduction-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.bsuir.dubitskaya.task2.util" />
+      <recent name="by.bsuir.dubitskaya.task1.util" />
+      <recent name="by.bsuir.dubitskaya.task1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -388,46 +320,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Runner (5)">
-    <configuration name="Runner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task9.runner.Runner" />
-      <module name="Java-Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.dubitskaya.task9.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Runner (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task8.runner.Runner" />
-      <module name="Java-Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.dubitskaya.task8.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Runner (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task12.runner.Runner" />
-      <module name="Java-Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.dubitskaya.task12.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.FigureTest.isPointInFigure">
     <configuration name="Runner (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task13.runner.Runner" />
       <module name="Java-Fundamentals" />
@@ -454,20 +347,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FigureTest.isPointInFigure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.dubitskaya.task2.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task2.util" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task2.util.FigureTest" />
+      <option name="METHOD_NAME" value="isPointInFigure" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionTest.solve" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.dubitskaya.task1.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task1.util" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task1.util.FunctionTest" />
+      <option name="METHOD_NAME" value="solve" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleTest.isPointInRectangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.dubitskaya.task2.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.dubitskaya.task2.util" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.dubitskaya.task2.util.RectangleTest" />
+      <option name="METHOD_NAME" value="isPointInRectangle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Runner (2)" />
-      <item itemvalue="Application.Runner (1)" />
-      <item itemvalue="Application.Runner (3)" />
       <item itemvalue="Application.Runner (4)" />
       <item itemvalue="Application.Runner (5)" />
+      <item itemvalue="JUnit.FunctionTest.solve" />
+      <item itemvalue="JUnit.RectangleTest.isPointInRectangle" />
+      <item itemvalue="JUnit.FigureTest.isPointInFigure" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FigureTest.isPointInFigure" />
+        <item itemvalue="JUnit.RectangleTest.isPointInRectangle" />
+        <item itemvalue="JUnit.FunctionTest.solve" />
         <item itemvalue="Application.Runner (5)" />
         <item itemvalue="Application.Runner (4)" />
-        <item itemvalue="Application.Runner (3)" />
-        <item itemvalue="Application.Runner (1)" />
-        <item itemvalue="Application.Runner (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -482,12 +423,26 @@
       <option name="presentableId" value="Default" />
       <updated>1540037964413</updated>
       <workItem from="1540037968216" duration="18822000" />
-      <workItem from="1540063491779" duration="33999000" />
+      <workItem from="1540063491779" duration="40019000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="FunctionTest_solve - 2018.10.22 at 16h 23m 19s.xml">
+      <configuration name="FunctionTest.solve" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionTest_solve - 2018.10.22 at 16h 23m 34s.xml">
+      <configuration name="FunctionTest.solve" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FunctionTest_solve - 2018.10.22 at 16h 29m 02s.xml">
+      <configuration name="FunctionTest.solve" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RectangleTest_isPointInRectangle - 2018.10.22 at 16h 44m 04s.xml">
+      <configuration name="RectangleTest.isPointInRectangle" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52821000" />
+    <option name="totallyTimeSpent" value="58841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -502,7 +457,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3787234" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3902439" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -674,69 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manifest.mf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/scanner/InputScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task1/util/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Figure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="43" column="61" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="61" />
-          <folding>
-            <element signature="e#1005#1006#0" expanded="true" />
-            <element signature="e#1073#1074#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
-          <folding>
-            <element signature="e#760#761#0" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#972#973#0" expanded="true" />
-            <element signature="e#1047#1048#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-            <element signature="e#1130#1131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task3/util/TanFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -857,7 +749,7 @@
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookAuthorComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="499">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+          <caret line="35" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#739#740#0" expanded="true" />
@@ -871,7 +763,7 @@
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookTitleComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
-          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#634#635#0" expanded="true" />
@@ -885,7 +777,7 @@
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookPriceComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#688#689#0" expanded="true" />
@@ -898,7 +790,7 @@
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookTitleAuthorComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#744#745#0" expanded="true" />
@@ -912,7 +804,7 @@
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookAuthorTitleComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="419">
-          <caret line="35" column="30" lean-forward="true" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#672#673#0" expanded="true" />
@@ -925,7 +817,7 @@
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/util/BookAuthorTitlePriceComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
-          <caret line="40" column="88" lean-forward="true" selection-start-line="40" selection-start-column="88" selection-end-line="40" selection-end-column="88" />
+          <caret line="40" column="88" selection-start-line="40" selection-start-column="88" selection-end-line="40" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#676#677#0" expanded="true" />
@@ -939,7 +831,7 @@
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task13/runner/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="27" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -949,7 +841,7 @@
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task12/runner/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="37" selection-end-column="89" />
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="37" selection-end-column="89" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -958,11 +850,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task15/runner/Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="153">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.mf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/scanner/InputScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task1/FunctionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task1/util/Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task1/util/FunctionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <folding>
+            <element signature="e#1062#1063#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/dubitskaya/task2/util/Figure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/RectangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/dubitskaya/task2/util/FigureTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
         </state>
       </provider>
     </entry>

@@ -6,6 +6,15 @@ public class Rectangle {
     private Point leftUpperCorner;
     private Point rightBottomCorner;
 
+    public Rectangle(double leftX, double rightX, double bottomY, double upperY) {
+        if ((leftX > rightX) || (upperY < bottomY)) {
+            throw new IllegalArgumentException("Invalid coordinates of the rectangle");
+        }
+
+        leftUpperCorner = new Point(leftX, upperY);
+        rightBottomCorner = new Point(rightX, bottomY);
+    }
+
     public Point getLeftUpperCorner() {
         return leftUpperCorner;
     }
@@ -52,15 +61,6 @@ public class Rectangle {
                 .append("@ right bottom corner: (").append(rightBottomCorner.getX())
                 .append(", ").append(rightBottomCorner.getY());
         return sb.toString();
-    }
-
-    public Rectangle(double leftX, double rightX, double bottomY, double upperY) {
-        if ((leftX > rightX) || (upperY < bottomY)) {
-            throw new IllegalArgumentException("Invalid coordinates of the rectangle");
-        }
-
-        leftUpperCorner = new Point(leftX, upperY);
-        rightBottomCorner = new Point(rightX, bottomY);
     }
 
     public boolean isPointInRectangle(Point point) {
