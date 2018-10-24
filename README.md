@@ -15,15 +15,15 @@ element.
 #### Task 1. Solve the problem.
 Calculate the value of the expression by the formula (all variables accept valid values). 
 For unit testing of an application create JUnit tests.                   
-<img src="https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task1.JPG" alt="Formula" width="80%" height="80%"/>
+<img src="https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task1.JPG" alt="Formula" width="400" height="190"/>
 
 #### Task 2. Solve the problem.
 For a given region compile a program that prints true, if a point with coordinates *(x, y)* belongs to the shaded area, and false otherwise. Create JUnit tests.                                                                                
-<img src="https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task2.JPG" alt="Region" width="612px" height="400px"/>
+<img src="https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task2.JPG" alt="Region" width="490px" height="320px"/>
 
 #### Task 3. Solve the problem.
 Create a program to calculate the values of the function F(x) on the interval *[a, b]* with step *h*. Result should be presented as a table, the first column of which is the value of the argument, the second is corresponding function values. Create JUnit tests.         
-<img src="https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task3.JPG" alt="Function" width="263px" height="86px"/>
+<img src="https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task3.JPG" alt="Function" width="210px" height="69px"/>
 
 #### Task 4. Solve the problem.
 An integer array of dimension N is given. Print the indexes of the prime elements. Create JUnit tests.
@@ -33,7 +33,7 @@ An integer table *A[n]* is given. Find the smallest number of the elements you c
 
 #### Task 6. Solve the problem.
 The real numbers *a1, a2, ..., an* are given. Get the next square order matrix n. Create JUnit tests.                       
-<img src="https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task6.JPG" alt="Matrix" width="677px" height="387px"/>
+<img src="https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task6.JPG" alt="Matrix" width="340px" height="194px"/>
 
 #### Task 7. Solve the problem.
 *Shell sort.* An array of n real numbers is given. It is required to sort it by ascending order. This is done as follows: two neighboring elements *ai* and *ai + 1* are compared. If *ai <= ai + 1*, then move forward one element. If *ai > ai + 1*, then swap the elements and shift one element back. Create an algorithm for this sorting.
