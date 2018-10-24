@@ -14,15 +14,15 @@ element.
 
 #### Task 1. Solve the problem.
 Calculate the value of the expression by the formula (all variables accept valid values). 
-For unit testing of an application create JUnit tests.
+For unit testing of an application create JUnit tests.                                            
 ![Formula](https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task1.JPG)
 
 #### Task 2. Solve the problem.
-For a given region compile a program that prints true, if a point with coordinates *(x, y)* belongs to the shaded area, and false otherwise. Create JUnit tests.
+For a given region compile a program that prints true, if a point with coordinates *(x, y)* belongs to the shaded area, and false otherwise. Create JUnit tests.                                                                                
 ![Region](https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task2.JPG)
 
 #### Task 3. Solve the problem.
-Create a program to calculate the values of the function F(x) on the interval *[a, b]* with step *h*. Result should be presented as a table, the first column of which is the value of the argument, the second is corresponding function values. Create JUnit tests.
+Create a program to calculate the values of the function F(x) on the interval *[a, b]* with step *h*. Result should be presented as a table, the first column of which is the value of the argument, the second is corresponding function values. Create JUnit tests.         
 ![Function](https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task3.JPG)
 
 #### Task 4. Solve the problem.
@@ -32,7 +32,7 @@ An integer array of dimension N is given. Print the indexes of the prime element
 An integer table *A[n]* is given. Find the smallest number of the elements you can throw out of the given sequence to get the increasing subsequence as long as possible. Create JUnit tests.
 
 #### Task 6. Solve the problem.
-The real numbers *a1, a2, ..., an* are given. Get the next square order matrix n. Create JUnit tests.
+The real numbers *a1, a2, ..., an* are given. Get the next square order matrix n. Create JUnit tests.                       
 ![Matrix](https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task6.JPG)
 
 #### Task 7. Solve the problem.
