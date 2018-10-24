@@ -15,7 +15,7 @@ element.
 #### Task 1. Solve the problem.
 Calculate the value of the expression by the formula (all variables accept valid values). 
 For unit testing of an application create JUnit tests.                   
-<img src="https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task1.JPG" alt="Formula" width="503px" height="241px"/>
+<img src="https://github.com/KaralinaDubitskaya/Java-Fundamentals/blob/master/screenshots/task1.JPG" alt="Formula" width="80%" height="80%"/>
 
 #### Task 2. Solve the problem.
 For a given region compile a program that prints true, if a point with coordinates *(x, y)* belongs to the shaded area, and false otherwise. Create JUnit tests.                                                                                
